@@ -1,3 +1,3 @@
 # comoTH
 
-https://comomodel.net/ for THAI provinces
+https://comomodel.net/ for THAILAND.
