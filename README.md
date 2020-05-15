@@ -1,3 +1,3 @@
 # comoTH
 
-https://comomodel.net/ for THAILAND.
+http://slphyx.shinyapps.io/comoTH/
